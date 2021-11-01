@@ -1,0 +1,6 @@
+<resources>
+    <string name="name_4">4app</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+</resources>
